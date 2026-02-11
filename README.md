@@ -130,8 +130,3 @@ GitHub Pages will NOT work because this is a Flask backend application.
   * Neutral
   * Sad
   * Surprise
----
-
-## 📄 License
-
-This project is for educational purposes.
